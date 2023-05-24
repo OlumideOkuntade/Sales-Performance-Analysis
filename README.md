@@ -50,7 +50,13 @@ Data Modelling,Measures,filters,tooltips,Page buttons, Page info and charts.
 
 ## Result
 
-A one page dashboard was created that answers the business questions, recommendations was also created to help improve business performaance.
+A one page dashboard was created that answers the business questions, recommendations was also given to help improve business performance.Some of the insight derived from the dashboard includes 
++ year 2022 shows the highest sales with growth against previous year
++ Bikes category have the highest impact on sales than any other category
++ North America generated the highest sales within the regions 
+
+
+
 
 
 
