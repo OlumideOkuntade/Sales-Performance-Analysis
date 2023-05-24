@@ -38,8 +38,8 @@ Power BI automatically created relationships between tables using its intellisen
 
 ##### Data Analysis and Visualization
 Creating calculated column for dates, time, and duration calculations
-Creating key performance indicators (KPIs) and other business calculations like 
-Data Modelling,Measures,filters,tooltips,Page buttons, page info and charts
+Creating key performance indicators (KPIs) and other business calculations like previous year sales, total sales etc
+Data Modelling,Measures,filters,tooltips,Page buttons, Page info and charts.
 
 
 
