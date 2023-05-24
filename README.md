@@ -1,5 +1,5 @@
  # Sales-Performance-Analysis
-This is a project of query data from AdventureWorksDW database Using SQL, connected to PowerBI using import mode to ceaate data driven insight and visualizations.
+This project query data from AdventureWorksDW database Using SQL, connected to PowerBI using import mode to ceaate data driven insight and visualizations.
 
 
 ## Introduction
@@ -13,5 +13,5 @@ This is an SQL and Power BI project on Sales performance analysis of AdventureWo
 The goal of this analysis is to 
 + Determine the current market demand for products and how it varies by region/location
 - Determine current sales performance and how it compares to past performance 
-+ Disscover target markets of product with the greatest impact on sales success.
++ Discover target markets of product with the greatest impact on sales success.
 - Recommend plans that aid in increasing sales, improve customer satisfaction and affinity.
