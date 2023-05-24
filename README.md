@@ -4,7 +4,7 @@ This project query data from AdventureWorksDW database Using SQL, connected to P
 
 ## Introduction
 
-This is an SQL and Power BI project on Sales performance analysis of AdventureWorksDW. It is done by analyzing data from different schemas on the AdventureWorksDW database. I analyzed data from dim_customers table, dim_date table, dim_product table, dim_territory sales and fact_internet sales table. I used SQL to query the data from the database, created views and imported to Power BI for further analysis. 
+This is an SQL with Power BI project on Sales performance analysis of AdventureWorksDW. It is done by analyzing data from different schemas on the AdventureWorksDW database. I analyzed data from dim_customers table, dim_date table, dim_product table, dim_territory sales and fact_internet sales table. I used SQL to query the data from the database, created views and imported to Power BI for further analysis. 
 
 
 **_Disclaimer_** This is not a real company as we know that adventureworksDW database is compiled by Microsoft for learning purposes.
