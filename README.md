@@ -44,3 +44,14 @@ Data Modelling,Measures,filters,tooltips,Page buttons, Page info and charts.
 
 
 
+
+
+
+
+## Result
+
+A one page dashboard was created that answers the business questions, recommendations was also created to help improve business performaance.
+
+
+
+
