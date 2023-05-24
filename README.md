@@ -15,3 +15,32 @@ The goal of this analysis is to
 - Determine current sales performance and how it compares to past performance 
 + Discover target markets of product with the greatest impact on sales success.
 - Recommend plans that aid in increasing sales, improve customer satisfaction and affinity.
+
+## Action
+The data used for this Project is queried from the AdventureWorksDW database 2019. I studied the Schema, Objects related to the Schema, data dictionary and found the right tables for the analysis.
+You can find a link to get started with installation and restoration of the database to your local machine. [here]( https://www.youtube.com/watch?v=VpY0Q_kwtIw&feature=youtu.be)
+#### Data Transformation
+Several structured queries were written to get the right tables and then saved as views in the Database on SQL Management studio. The tables and views are:
+
+
+
+
+
+
+
+
+#### Data Modeling
+Power BI automatically created relationships between tables using its intellisense, however, with my deep understanding of different models in power BI, I created a star schema that consist of one fact table and 5 dimention table.
+
+
+
+
+
+##### Data Analysis and Visualization
+Creating calculated column for dates, time, and duration calculations
+Creating key performance indicators (KPIs) and other business calculations like 
+Data Modelling,Measures,filters,tooltips,Page buttons, page info and charts
+
+
+
+
