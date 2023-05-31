@@ -58,6 +58,7 @@ Data Modelling,Measures,filters,tooltips,Page buttons, Page info,Key measures an
 A one page dashboard was created that answers the business questions, recommendations was also given to help improve business performance.
 ![](sales_dashboard.PNG) | ![](sales_dashboard_2.PNG)
 :-----------------------:| :-------------------------:
+
 I also created an info page dashboard that highlight actionable point.
 
  Some of the insight derived from the dashboard includes 
