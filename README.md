@@ -56,10 +56,10 @@ Data Modelling,Measures,filters,tooltips,Page buttons, Page info,Key measures an
 ## Result
 
 A one page dashboard was created that answers the business questions, recommendations was also given to help improve business performance.
-![](sales_dashboard.PNG) | ![](sales_dashboard 2.PNG)
+![](sales_dashboard.PNG) | ![](sales_dashboard_2.PNG)
 :-----------------------:| :-------------------------:
 I also created an info page dashboard that highlight actionable point.
-![](sales_dashboard 2.PNG)
+
  Some of the insight derived from the dashboard includes 
 + year 2022 shows the highest sales with growth against previous year
 + Bikes category have the highest impact on sales than any other category
