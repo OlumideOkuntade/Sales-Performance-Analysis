@@ -14,7 +14,7 @@ This is an SQL with Power BI project on Sales performance analysis of AdventureW
 The goal of this analysis is to 
 + Determine the current market demand for products and how it varies by region/location
 - Determine current sales performance and how it compares to past performance 
-+ Discover target markets of product with the greatest impact on sales success.
++ Discover target markets of product with the highest impact on sales success.
 - Recommend plans that aid in increasing sales, improve customer satisfaction and affinity.
 
 ## Action
