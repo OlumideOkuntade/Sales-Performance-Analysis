@@ -22,31 +22,35 @@ The data used for this Project is queried from the AdventureWorksDW database 201
 You can find a link to get started with installation and restoration of the database to your local machine. [here]( https://www.youtube.com/watch?v=VpY0Q_kwtIw&feature=youtu.be)
 #### Data Transformation
 Several structured queries were written to get the right tables and then saved as views in the Database on SQL Management studio. The tables and views are:
++ Customers table
+![](customer_view.PNG)
+- Date table
+![](date_view.PNG)
++ Sales table
+![](fact_salesview.PNG)
+- Product table
+ ![](product_view.PNG)
++ Connected SQL Server to PowerBI Desktop for analysis.
 
-
-
-
-
-
-
-
+ ![](connect_powerBI.PNG)
+ 
+ - Selected the right table and transform to Power Query.
+ 
+ ![](select_view.PNG)
+ 
+ 
 #### Data Modeling
 Power BI automatically created relationships between tables using its intellisense, however, with my deep understanding of different models in power BI, I created a star schema that consist of one fact table and 5 dimention table.
-
-
+  Automated Model                 |    Adjusted Model
+:--------------------------------:| :----------------------------:
+![](automated_relationship.PNG)   | ![](created_relationship.PNG)
 
 
 
 #### Data Analysis and Visualization
 Creating calculated column for dates, time, and duration calculations
 Creating key performance indicators (KPIs) and other business calculations like previous year sales, total sales etc
-Data Modelling,Measures,filters,tooltips,Page buttons, Page info and charts.
-
-
-
-
-
-
+Data Modelling,Measures,filters,tooltips,Page buttons, Page info and charts
 
 
 ## Result
