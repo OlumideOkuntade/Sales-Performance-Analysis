@@ -1,5 +1,6 @@
  # Sales-Performance-Analysis
 This project query data from AdventureWorksDW database Using SQL, connected to PowerBI using import mode to ceaate data driven insight and visualizations.
+![](Into_picture.jpg)
 
 
 ## Introduction
